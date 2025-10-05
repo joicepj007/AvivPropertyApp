@@ -1,6 +1,11 @@
 # 🏠 AVIV Property App
 
 A modern Android app for browsing aviv property listings built with **MVVM + Clean Architecture**, **Jetpack Compose**, and **Material Design 3**.
+## 🎥 Demo
+
+<div style="text-align: center;">
+  <img src="media/demo.gif" alt="App demo" width="320"/>
+</div>
 
 ## ✨ Features
 
@@ -60,7 +65,7 @@ feature/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/real-estate-app.git
+   git clone https://github.com/joicepj007/AvivPropertyApp.git
    ```
 
 2. **Open in Android Studio**
