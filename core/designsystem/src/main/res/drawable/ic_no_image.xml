@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#625B71"
+        android:pathData="M0,0h200v200h-200z"/>
+
+    <!-- Broken Image Icon -->
+    <group
+        android:translateX="100"
+        android:translateY="100">
+
+        <!-- Image Frame -->
+        <path
+            android:fillColor="#90A4AE"
+            android:pathData="M-40,-30 L40,-30 L40,40 L-40,40 Z
+                             M-35,-25 L-35,35 L35,35 L35,-25 Z"/>
+
+        <!-- Mountain Shape -->
+        <path
+            android:fillColor="#B0BEC5"
+            android:pathData="M-30,20 L-10,-5 L10,15 L30,5 L30,30 L-30,30 Z"/>
+
+        <!-- Sun/Moon Circle -->
+        <path
+            android:fillColor="#CFD8DC"
+            android:pathData="M-15,-10 m-8,0 a8,8 0,1,1 16,0 a8,8 0,1,1 -16,0"/>
+
+        <!-- Diagonal "No" Line -->
+        <path
+            android:strokeColor="#FF5252"
+            android:strokeWidth="4"
+            android:strokeLineCap="round"
+            android:pathData="M-35,-25 L35,35"/>
+    </group>
+</vector>
