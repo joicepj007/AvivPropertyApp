@@ -97,7 +97,7 @@ Run tests with: `./gradlew test`
 
 - **Minimum SDK**: 26 (Android 8.0)
 - **Target SDK**: 35 (Android 15)
-- **Kotlin**: 1.9.25
+- **Kotlin**: 2.0.20
 
 ## 📝 Code Style
 
