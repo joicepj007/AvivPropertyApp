@@ -60,7 +60,7 @@ feature/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/real-estate-app.git
+   git clone https://github.com/joicepj007/AvivPropertyApp.git
    ```
 
 2. **Open in Android Studio**
