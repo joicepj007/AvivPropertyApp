@@ -12,7 +12,6 @@ A modern Android app for browsing aviv property listings built with **MVVM + Cle
 - Browse property listings with images and details
 - View detailed property information
 - Smooth loading states and error handling
-- Offline support with caching
 - Modern Material Design 3 UI
 
 ## 🏗 Architecture
@@ -110,11 +109,5 @@ Run tests with: `./gradlew test`
 - Uses ktlint for formatting
 - 4 spaces indentation
 - Max line length: 120 characters
-
-## 📄 License
-
-MIT License - feel free to use this project for learning and development.
-
----
 
 **Built with Kotlin & Jetpack Compose** ❤️
